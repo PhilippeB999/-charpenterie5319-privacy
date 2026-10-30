@@ -1,0 +1,1833 @@
+[
+ {
+  "n": 1,
+  "t": "LE MONDE DES TABLETTES ET DES TÉLÉPHONES APPLE",
+  "p": "1-1",
+  "secs": [
+   {
+    "n": "1.1",
+    "t": "Introduction",
+    "p": "1-1",
+    "subs": []
+   },
+   {
+    "n": "1.2",
+    "t": "Qu’est-ce qu’un iPad ? Qu’est-ce qu’un iPhone ?",
+    "p": "1-1",
+    "subs": []
+   },
+   {
+    "n": "1.3",
+    "t": "Les appareils Apple et les autres",
+    "p": "1-2",
+    "subs": []
+   }
+  ]
+ },
+ {
+  "n": 2,
+  "t": "LES TABLETTES ET LES TÉLÉPHONES APPLE : PRINCIPALES CARACTÉRISTIQUES",
+  "p": "2-1",
+  "secs": [
+   {
+    "n": "2.1",
+    "t": "Contrôles physiques",
+    "p": "2-1",
+    "subs": [
+     {
+      "n": "2.1.1",
+      "t": "Bouton Marche/Arrêt – Veille/Éveil",
+      "p": "2-1"
+     },
+     {
+      "n": "2.1.2",
+      "t": "Touches de contrôle de volume et de sonnerie",
+      "p": "2-2"
+     },
+     {
+      "n": "2.1.3",
+      "t": "Bouton latéral",
+      "p": "2-2"
+     },
+     {
+      "n": "2.1.4",
+      "t": "Microphone et haut-parleurs",
+      "p": "2-2"
+     },
+     {
+      "n": "2.1.5",
+      "t": "Prise pour les écouteurs",
+      "p": "2-2"
+     },
+     {
+      "n": "2.1.6",
+      "t": "Prise Lightning, le câble d’alimentation et les adaptateurs",
+      "p": "2-3"
+     },
+     {
+      "n": "2.1.7",
+      "t": "Aimant",
+      "p": "2-3"
+     }
+    ]
+   },
+   {
+    "n": "2.2",
+    "t": "Dos de l’appareil",
+    "p": "2-3",
+    "subs": []
+   },
+   {
+    "n": "2.3",
+    "t": "Devant de l’appareil",
+    "p": "2-3",
+    "subs": [
+     {
+      "n": "2.3.1",
+      "t": "Caméra avant",
+      "p": "2-3"
+     },
+     {
+      "n": "2.3.2",
+      "t": "Bouton principal",
+      "p": "2-4"
+     }
+    ]
+   },
+   {
+    "n": "2.4",
+    "t": "Écrans de l’iPad et de l’iPhone",
+    "p": "2-4",
+    "subs": [
+     {
+      "n": "2.4.1",
+      "t": "Écran de verrouillage",
+      "p": "2-4"
+     },
+     {
+      "n": "2.4.2",
+      "t": "Écran d’accueil",
+      "p": "2-5"
+     }
+    ]
+   },
+   {
+    "n": "2.5",
+    "t": "Applications",
+    "p": "2-5",
+    "subs": []
+   },
+   {
+    "n": "2.6",
+    "t": "Orientation",
+    "p": "2-6",
+    "subs": []
+   },
+   {
+    "n": "2.7",
+    "t": "Accessoires",
+    "p": "2-6",
+    "subs": []
+   }
+  ]
+ },
+ {
+  "n": 3,
+  "t": "LE LANGAGE DES DOIGTS À L’ÉCRAN",
+  "p": "3-1",
+  "secs": [
+   {
+    "n": "3.1",
+    "t": "Défiler",
+    "p": "3-1",
+    "subs": []
+   },
+   {
+    "n": "3.2",
+    "t": "Toucher",
+    "p": "3-1",
+    "subs": []
+   },
+   {
+    "n": "3.3",
+    "t": "Zoomer",
+    "p": "3-1",
+    "subs": [
+     {
+      "n": "3.3.1",
+      "t": "Zoom avant",
+      "p": "3-1"
+     },
+     {
+      "n": "3.3.2",
+      "t": "Zoom arrière",
+      "p": "3-1"
+     }
+    ]
+   },
+   {
+    "n": "3.4",
+    "t": "Pivoter",
+    "p": "3-1",
+    "subs": []
+   },
+   {
+    "n": "3.5",
+    "t": "Glisser",
+    "p": "3-2",
+    "subs": []
+   },
+   {
+    "n": "3.6",
+    "t": "Retour à l’écran d’accueil",
+    "p": "3-2",
+    "subs": [
+     {
+      "n": "3.6.1",
+      "t": "Avec une tablette iPad",
+      "p": "3-2"
+     },
+     {
+      "n": "3.6.2",
+      "t": "Avec un téléphone iPhone",
+      "p": "3-2"
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "n": 4,
+  "t": "GÉRER LES APPLICATIONS ET PERSONNALISER L’ÉCRAN D’ACCUEIL",
+  "p": "4-1",
+  "secs": [
+   {
+    "n": "4.1",
+    "t": "Déplacer une application",
+    "p": "4-1",
+    "subs": [
+     {
+      "n": "4.1.1",
+      "t": "Déplacement sur le même écran",
+      "p": "4-1"
+     },
+     {
+      "n": "4.1.2",
+      "t": "Déplacement d’un écran à un autre",
+      "p": "4-1"
+     }
+    ]
+   },
+   {
+    "n": "4.2",
+    "t": "Organiser des applications à l’aide de dossiers",
+    "p": "4-2",
+    "subs": [
+     {
+      "n": "4.2.1",
+      "t": "Créer des dossiers",
+      "p": "4-2"
+     },
+     {
+      "n": "4.2.2",
+      "t": "Modifier des dossiers",
+      "p": "4-2"
+     }
+    ]
+   },
+   {
+    "n": "4.3",
+    "t": "Désinstaller des applications",
+    "p": "4-3",
+    "subs": []
+   },
+   {
+    "n": "4.4",
+    "t": "Basculer entre les Apps",
+    "p": "4-3",
+    "subs": []
+   }
+  ]
+ },
+ {
+  "n": 5,
+  "t": "LES RÉGLAGES DE BASE",
+  "p": "5-1",
+  "secs": [
+   {
+    "n": "5.1",
+    "t": "L’écran des réglages",
+    "p": "5-1",
+    "subs": [
+     {
+      "n": "5.1.1",
+      "t": "Sur un iPad",
+      "p": "5-1"
+     },
+     {
+      "n": "5.1.2",
+      "t": "Sur un iPhone",
+      "p": "5-1"
+     }
+    ]
+   },
+   {
+    "n": "5.2",
+    "t": "Contrôles dans les écrans Réglages",
+    "p": "5-2",
+    "subs": []
+   },
+   {
+    "n": "5.3",
+    "t": "Mode Avion",
+    "p": "5-3",
+    "subs": []
+   },
+   {
+    "n": "5.4",
+    "t": "Wi-Fi – connexion sans fil",
+    "p": "5-3",
+    "subs": []
+   },
+   {
+    "n": "5.5",
+    "t": "Bluetooth",
+    "p": "5-4",
+    "subs": []
+   },
+   {
+    "n": "5.6",
+    "t": "Réseau cellulaire",
+    "p": "5-5",
+    "subs": []
+   },
+   {
+    "n": "5.7",
+    "t": "Général",
+    "p": "5-5",
+    "subs": [
+     {
+      "n": "5.7.1",
+      "t": "Informations",
+      "p": "5-5"
+     },
+     {
+      "n": "5.7.2",
+      "t": "Mise à jour logicielle",
+      "p": "5-5"
+     },
+     {
+      "n": "5.7.3",
+      "t": "Multitâche et Dock",
+      "p": "5-6"
+     },
+     {
+      "n": "5.7.3",
+      "t": "1. Gestes (sur iPad)",
+      "p": "5-7"
+     },
+     {
+      "n": "5.7.3",
+      "t": "2. Dock",
+      "p": "5-7"
+     },
+     {
+      "n": "5.7.4",
+      "t": "CarPlay",
+      "p": "5-7"
+     },
+     {
+      "n": "5.7.5",
+      "t": "Date et heure",
+      "p": "5-8"
+     },
+     {
+      "n": "5.7.6",
+      "t": "Clavier",
+      "p": "5-8"
+     },
+     {
+      "n": "5.7.6",
+      "t": "1. Réglages de langue",
+      "p": "5-8"
+     },
+     {
+      "n": "5.7.6",
+      "t": "2. Ajouter un clavier",
+      "p": "5-8"
+     },
+     {
+      "n": "5.7.6",
+      "t": "3. Supprimer un clavier",
+      "p": "5-9"
+     },
+     {
+      "n": "5.7.7",
+      "t": "Langue et Région",
+      "p": "5-9"
+     },
+     {
+      "n": "5.7.8",
+      "t": "Dictionnaires",
+      "p": "5-10"
+     }
+    ]
+   },
+   {
+    "n": "5.8",
+    "t": "Affichage et Luminosité",
+    "p": "5-10",
+    "subs": [
+     {
+      "n": "5.8.1",
+      "t": "Luminosité",
+      "p": "5-10"
+     },
+     {
+      "n": "5.8.2",
+      "t": "Night Shift",
+      "p": "5-10"
+     },
+     {
+      "n": "5.8.3",
+      "t": "Verrouillage automatique",
+      "p": "5-11"
+     },
+     {
+      "n": "5.8.4",
+      "t": "Taille du texte",
+      "p": "5-11"
+     }
+    ]
+   },
+   {
+    "n": "5.9",
+    "t": "Fond d’écran",
+    "p": "5-11",
+    "subs": [
+     {
+      "n": "5.9.1",
+      "t": "Options",
+      "p": "5-12"
+     },
+     {
+      "n": "5.9.2",
+      "t": "Changer de fond d’écran",
+      "p": "5-12"
+     }
+    ]
+   },
+   {
+    "n": "5.10",
+    "t": "Sons",
+    "p": "5-13",
+    "subs": []
+   },
+   {
+    "n": "5.11",
+    "t": "Touch ID et code",
+    "p": "5-13",
+    "subs": [
+     {
+      "n": "5.11.1",
+      "t": "Utiliser une empreinte digitale",
+      "p": "5-14"
+     },
+     {
+      "n": "5.11.2",
+      "t": "Définir un code",
+      "p": "5-14"
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "n": 6,
+  "t": "ÉDITION DE TEXTE",
+  "p": "6-1",
+  "secs": [
+   {
+    "n": "6.1",
+    "t": "Réglages",
+    "p": "6-1",
+    "subs": []
+   },
+   {
+    "n": "6.2",
+    "t": "Clavier",
+    "p": "6-2",
+    "subs": [
+     {
+      "n": "6.2.1",
+      "t": "Accéder au clavier",
+      "p": "6-2"
+     },
+     {
+      "n": "6.2.2",
+      "t": "Touches du clavier et leurs particularités",
+      "p": "6-2"
+     },
+     {
+      "n": "6.2.3",
+      "t": "Majuscules et minuscules",
+      "p": "6-3"
+     },
+     {
+      "n": "6.2.4",
+      "t": "Accents",
+      "p": "6-4"
+     },
+     {
+      "n": "6.2.5",
+      "t": "Chiffres, signes de ponctuation et symboles",
+      "p": "6-4"
+     },
+     {
+      "n": "6.2.5",
+      "t": "1. Sur le clavier d’un iPad",
+      "p": "6-4"
+     },
+     {
+      "n": "6.2.5",
+      "t": "2. Sur le clavier d’un iPhone",
+      "p": "6-5"
+     },
+     {
+      "n": "6.2.5",
+      "t": "3. Retour vers un autre écran",
+      "p": "6-5"
+     },
+     {
+      "n": "6.2.5",
+      "t": "4. Émoji",
+      "p": "6-5"
+     },
+     {
+      "n": "6.2.6",
+      "t": "Masquer le clavier",
+      "p": "6-5"
+     },
+     {
+      "n": "6.2.7",
+      "t": "Dicter",
+      "p": "6-6"
+     }
+    ]
+   },
+   {
+    "n": "6.3",
+    "t": "Outils d’aide à la rédaction",
+    "p": "6-6",
+    "subs": [
+     {
+      "n": "6.3.1",
+      "t": "Nouvelle page",
+      "p": "6-6"
+     },
+     {
+      "n": "6.3.2",
+      "t": "Prédictions",
+      "p": "6-7"
+     },
+     {
+      "n": "6.3.3",
+      "t": "Correcteur d’orthographe",
+      "p": "6-7"
+     },
+     {
+      "n": "6.3.4",
+      "t": "Correction automatique",
+      "p": "6-7"
+     },
+     {
+      "n": "6.3.5",
+      "t": "Positionnement du point d’insertion",
+      "p": "6-7"
+     },
+     {
+      "n": "6.3.6",
+      "t": "Modification et mise en forme de texte",
+      "p": "6-8"
+     },
+     {
+      "n": "6.3.7",
+      "t": "Déplacer du texte via glisser et déposer",
+      "p": "6-9"
+     },
+     {
+      "n": "6.3.8",
+      "t": "Suppression de texte",
+      "p": "6-10"
+     }
+    ]
+   },
+   {
+    "n": "6.4",
+    "t": "Impression de documents",
+    "p": "6-10",
+    "subs": []
+   }
+  ]
+ },
+ {
+  "n": 7,
+  "t": "CONTACTS",
+  "p": "7-1",
+  "secs": [
+   {
+    "n": "7.1",
+    "t": "Réglages",
+    "p": "7-1",
+    "subs": []
+   },
+   {
+    "n": "7.2",
+    "t": "Accès à Contacts",
+    "p": "7-1",
+    "subs": [
+     {
+      "n": "7.2.1",
+      "t": "Sur une tablette iPad",
+      "p": "7-1"
+     },
+     {
+      "n": "7.2.2",
+      "t": "Sur un iPhone",
+      "p": "7-2"
+     }
+    ]
+   },
+   {
+    "n": "7.3",
+    "t": "Ajouter un contact",
+    "p": "7-2",
+    "subs": []
+   },
+   {
+    "n": "7.4",
+    "t": "Rechercher un contact",
+    "p": "7-3",
+    "subs": []
+   },
+   {
+    "n": "7.5",
+    "t": "Modifier un contact",
+    "p": "7-3",
+    "subs": []
+   },
+   {
+    "n": "7.6",
+    "t": "Envoyer un courriel à partir d’un contact ou d’un groupe de contacts",
+    "p": "7-4",
+    "subs": []
+   },
+   {
+    "n": "7.7",
+    "t": "Supprimer un contact",
+    "p": "7-4",
+    "subs": []
+   }
+  ]
+ },
+ {
+  "n": 8,
+  "t": "MAIL (COURRIER ÉLECTRONIQUE)",
+  "p": "8-1",
+  "secs": [
+   {
+    "n": "8.1",
+    "t": "Réglages",
+    "p": "8-1",
+    "subs": []
+   },
+   {
+    "n": "8.2",
+    "t": "Accès au courrier électronique",
+    "p": "8-3",
+    "subs": [
+     {
+      "n": "8.2.1",
+      "t": "Sur un iPad",
+      "p": "8-3"
+     },
+     {
+      "n": "8.2.2",
+      "t": "Sur un iPhone",
+      "p": "8-3"
+     }
+    ]
+   },
+   {
+    "n": "8.3",
+    "t": "Fonctionnalités du courrier",
+    "p": "8-3",
+    "subs": [
+     {
+      "n": "8.3.1",
+      "t": "Outils",
+      "p": "8-3"
+     },
+     {
+      "n": "8.3.2",
+      "t": "Rédiger un message",
+      "p": "8-4"
+     },
+     {
+      "n": "8.3.3",
+      "t": "Envoyer un courriel",
+      "p": "8-4"
+     },
+     {
+      "n": "8.3.4",
+      "t": "Lire un message",
+      "p": "8-5"
+     },
+     {
+      "n": "8.3.5",
+      "t": "Marquer un message",
+      "p": "8-5"
+     },
+     {
+      "n": "8.3.6",
+      "t": "Répondre à un message",
+      "p": "8-5"
+     },
+     {
+      "n": "8.3.7",
+      "t": "Transférer un message",
+      "p": "8-5"
+     },
+     {
+      "n": "8.3.8",
+      "t": "Supprimer un message",
+      "p": "8-5"
+     },
+     {
+      "n": "8.3.9",
+      "t": "Imprimer un courriel",
+      "p": "8-6"
+     }
+    ]
+   },
+   {
+    "n": "8.4",
+    "t": "Pièces jointes aux messages courriel",
+    "p": "8-6",
+    "subs": [
+     {
+      "n": "8.4.1",
+      "t": "Lire une pièce jointe",
+      "p": "8-6"
+     },
+     {
+      "n": "8.4.2",
+      "t": "Enregistrer une pièce jointe",
+      "p": "8-6"
+     },
+     {
+      "n": "8.4.3",
+      "t": "Insérer une pièce jointe (photo ou vidéo)",
+      "p": "8-6"
+     }
+    ]
+   },
+   {
+    "n": "8.5",
+    "t": "Dossiers dans Mail",
+    "p": "8-7",
+    "subs": [
+     {
+      "n": "8.5.1",
+      "t": "Créer un dossier",
+      "p": "8-8"
+     },
+     {
+      "n": "8.5.2",
+      "t": "Supprimer un dossier (ou une boîte de courriel)",
+      "p": "8-8"
+     },
+     {
+      "n": "8.5.3",
+      "t": "Classer un message",
+      "p": "8-9"
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "n": 9,
+  "t": "CALENDRIER",
+  "p": "9-1",
+  "secs": [
+   {
+    "n": "9.1",
+    "t": "Réglages et accès",
+    "p": "9-1",
+    "subs": []
+   },
+   {
+    "n": "9.2",
+    "t": "Utilisation",
+    "p": "9-1",
+    "subs": [
+     {
+      "n": "9.2.1",
+      "t": "Affichage et navigation",
+      "p": "9-1"
+     },
+     {
+      "n": "9.2.2",
+      "t": "Recherche",
+      "p": "9-2"
+     },
+     {
+      "n": "9.2.3",
+      "t": "Calendriers",
+      "p": "9-2"
+     },
+     {
+      "n": "9.2.4",
+      "t": "Ajouter un événement",
+      "p": "9-3"
+     },
+     {
+      "n": "9.2.5",
+      "t": "Supprimer un événement",
+      "p": "9-3"
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "n": 10,
+  "t": "SAFARI",
+  "p": "10-1",
+  "secs": [
+   {
+    "n": "10.1",
+    "t": "Réglages",
+    "p": "10-1",
+    "subs": []
+   },
+   {
+    "n": "10.2",
+    "t": "Accès et contrôles",
+    "p": "10-2",
+    "subs": []
+   },
+   {
+    "n": "10.3",
+    "t": "Mode Lecture",
+    "p": "10-3",
+    "subs": []
+   },
+   {
+    "n": "10.4",
+    "t": "Liste de lecture",
+    "p": "10-4",
+    "subs": [
+     {
+      "n": "10.4.1",
+      "t": "Ajouter la page actuelle à la liste de lecture",
+      "p": "10-4"
+     },
+     {
+      "n": "10.4.2",
+      "t": "Accéder et afficher votre liste de lecture",
+      "p": "10-4"
+     },
+     {
+      "n": "10.4.3",
+      "t": "Supprimer un élément de la liste",
+      "p": "10-4"
+     }
+    ]
+   },
+   {
+    "n": "10.5",
+    "t": "Signets et dossiers",
+    "p": "10-4",
+    "subs": [
+     {
+      "n": "10.5.1",
+      "t": "Accès",
+      "p": "10-4"
+     },
+     {
+      "n": "10.5.2",
+      "t": "Créer des dossiers",
+      "p": "10-4"
+     },
+     {
+      "n": "10.5.3",
+      "t": "Ajouter un signet",
+      "p": "10-5"
+     },
+     {
+      "n": "10.5.4",
+      "t": "Afficher les favoris",
+      "p": "10-5"
+     },
+     {
+      "n": "10.5.5",
+      "t": "Déplacer des signets et des dossiers",
+      "p": "10-6"
+     },
+     {
+      "n": "10.5.6",
+      "t": "Supprimer des signets et des dossiers",
+      "p": "10-6"
+     }
+    ]
+   },
+   {
+    "n": "10.6",
+    "t": "Supprimer l’historique de navigation",
+    "p": "10-6",
+    "subs": []
+   },
+   {
+    "n": "10.7",
+    "t": "Mode Navigation privée",
+    "p": "10-6",
+    "subs": []
+   },
+   {
+    "n": "10.8",
+    "t": "Petits trucs",
+    "p": "10-7",
+    "subs": []
+   }
+  ]
+ },
+ {
+  "n": 11,
+  "t": "SIRI",
+  "p": "11-1",
+  "secs": [
+   {
+    "n": "11.1",
+    "t": "Qu’est-ce que Siri",
+    "p": "11-1",
+    "subs": []
+   },
+   {
+    "n": "11.2",
+    "t": "Pourquoi utiliser Siri ?",
+    "p": "11-1",
+    "subs": []
+   },
+   {
+    "n": "11.3",
+    "t": "Comment utiliser Siri ?",
+    "p": "11-1",
+    "subs": [
+     {
+      "n": "11.3.1",
+      "t": "Activation",
+      "p": "11-1"
+     },
+     {
+      "n": "11.3.2",
+      "t": "Accès et mode d’emploi",
+      "p": "11-2"
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "n": 12,
+  "t": "STOCKAGE",
+  "p": "12-1",
+  "secs": [
+   {
+    "n": "12.1",
+    "t": "iCloud",
+    "p": "12-1",
+    "subs": [
+     {
+      "n": "12.1.1",
+      "t": "Réglages",
+      "p": "12-1"
+     },
+     {
+      "n": "12.1.2",
+      "t": "Sauvegarde",
+      "p": "12-1"
+     },
+     {
+      "n": "12.1.3",
+      "t": "Stockage",
+      "p": "12-2"
+     },
+     {
+      "n": "12.1.4",
+      "t": "Partage",
+      "p": "12-3"
+     },
+     {
+      "n": "12.1.5",
+      "t": "Localiser",
+      "p": "12-3"
+     }
+    ]
+   },
+   {
+    "n": "12.2",
+    "t": "Autres fournisseurs",
+    "p": null,
+    "subs": []
+   }
+  ]
+ },
+ {
+  "n": 13,
+  "t": "APPAREIL PHOTO",
+  "p": "13-1",
+  "secs": [
+   {
+    "n": "13.1",
+    "t": "Réglages",
+    "p": "13-1",
+    "subs": []
+   },
+   {
+    "n": "13.2",
+    "t": "Accès",
+    "p": "13-1",
+    "subs": []
+   },
+   {
+    "n": "13.3",
+    "t": "Outils",
+    "p": "13-2",
+    "subs": []
+   },
+   {
+    "n": "13.4",
+    "t": "Prise de photos",
+    "p": "13-3",
+    "subs": []
+   },
+   {
+    "n": "13.5",
+    "t": "Prise de vidéos",
+    "p": "13-4",
+    "subs": []
+   }
+  ]
+ },
+ {
+  "n": 14,
+  "t": "PHOTOS",
+  "p": "14-1",
+  "secs": [
+   {
+    "n": "14.1",
+    "t": "Réglages",
+    "p": "14-1",
+    "subs": []
+   },
+   {
+    "n": "14.2",
+    "t": "Accès",
+    "p": "14-1",
+    "subs": []
+   },
+   {
+    "n": "14.3",
+    "t": "Affichage des photos",
+    "p": "14-2",
+    "subs": []
+   },
+   {
+    "n": "14.4",
+    "t": "Onglet Photos",
+    "p": "14-2",
+    "subs": [
+     {
+      "n": "14.4.1",
+      "t": "Les options d’affichage des photos et vidéos",
+      "p": "14-3"
+     },
+     {
+      "n": "14.4.1",
+      "t": "1. Visionner une photo ou une vidéo en plein écran",
+      "p": "14-3"
+     },
+     {
+      "n": "14.4.1",
+      "t": "2. Passer d’une vue à une autre",
+      "p": "14-3"
+     },
+     {
+      "n": "14.4.1",
+      "t": "3. Effectuer un zoom",
+      "p": "14-3"
+     },
+     {
+      "n": "14.4.1",
+      "t": "4. Autres options d’affichage",
+      "p": "14-3"
+     },
+     {
+      "n": "14.4.2",
+      "t": "Les diverses opérations",
+      "p": "14-4"
+     },
+     {
+      "n": "14.4.2",
+      "t": "1. Identifier des personnes et des lieux",
+      "p": "14-4"
+     },
+     {
+      "n": "14.4.2",
+      "t": "2. Modifier une photo",
+      "p": "14-4"
+     },
+     {
+      "n": "14.4.2",
+      "t": "3. Partager une photo ou une vidéo",
+      "p": "14-5"
+     },
+     {
+      "n": "14.4.2",
+      "t": "4. Supprimer une ou des photos ou vidéos",
+      "p": "14-6"
+     }
+    ]
+   },
+   {
+    "n": "14.5",
+    "t": "Onglet Pour vous",
+    "p": "14-6",
+    "subs": [
+     {
+      "n": "14.5.1",
+      "t": "Collection Souvenirs",
+      "p": "14-6"
+     },
+     {
+      "n": "14.5.2",
+      "t": "Modification d’un film Souvenir proposé par l’application Photos",
+      "p": "14-7"
+     },
+     {
+      "n": "14.5.3",
+      "t": "Création d’un film Souvenir personnalisé",
+      "p": "14-8"
+     },
+     {
+      "n": "14.5.4",
+      "t": "Suppression d’un Souvenir",
+      "p": "14-8"
+     }
+    ]
+   },
+   {
+    "n": "14.6",
+    "t": "Onglet Albums",
+    "p": "14-8",
+    "subs": [
+     {
+      "n": "14.6.1",
+      "t": "Gestion des albums",
+      "p": "14-9"
+     },
+     {
+      "n": "14.6.1",
+      "t": "1. Créer un nouvel album",
+      "p": "14-10"
+     },
+     {
+      "n": "14.6.1",
+      "t": "2. Ajouter des éléments à un album existant",
+      "p": "14-10"
+     },
+     {
+      "n": "14.6.1",
+      "t": "3. Supprimer des éléments dans un album",
+      "p": "14-10"
+     },
+     {
+      "n": "14.6.1",
+      "t": "4. Supprimer un album",
+      "p": "14-10"
+     },
+     {
+      "n": "14.6.1",
+      "t": "5. Récupérer des photos ou des vidéos supprimées",
+      "p": "14-10"
+     },
+     {
+      "n": "14.6.1",
+      "t": "6. Renommer et réorganiser des albums existants",
+      "p": "14-11"
+     },
+     {
+      "n": "14.6.1",
+      "t": "7. Créer un diaporama personnalisé",
+      "p": "14-11"
+     }
+    ]
+   },
+   {
+    "n": "14.7",
+    "t": "Onglet Rechercher",
+    "p": "14-11",
+    "subs": [
+     {
+      "n": "14.7.1",
+      "t": "Rechercher une personne",
+      "p": "14-11"
+     },
+     {
+      "n": "14.7.2",
+      "t": "Rechercher un lieu",
+      "p": "14-11"
+     }
+    ]
+   },
+   {
+    "n": "14.8",
+    "t": "Importer",
+    "p": "14-12",
+    "subs": [
+     {
+      "n": "14.8.1",
+      "t": "D’une caméra numérique vers l’iPad",
+      "p": "14-12"
+     },
+     {
+      "n": "14.8.2",
+      "t": "De l’iPad vers un ordinateur",
+      "p": "14-12"
+     }
+    ]
+   },
+   {
+    "n": "14.9",
+    "t": "Quelques rappels",
+    "p": "14-12",
+    "subs": []
+   }
+  ]
+ },
+ {
+  "n": 15,
+  "t": "FACETIME",
+  "p": "15-1",
+  "secs": [
+   {
+    "n": "15.1",
+    "t": "Réglages et accès",
+    "p": "15-1",
+    "subs": []
+   },
+   {
+    "n": "15.2",
+    "t": "Passer un appel vidéo",
+    "p": "15-1",
+    "subs": [
+     {
+      "n": "15.2.1",
+      "t": "Choisir l’interlocuteur",
+      "p": "15-1"
+     },
+     {
+      "n": "15.2.2",
+      "t": "Appeler l’interlocuteur",
+      "p": "15-1"
+     },
+     {
+      "n": "15.2.3",
+      "t": "Contrôles",
+      "p": "15-2"
+     },
+     {
+      "n": "15.2.3",
+      "t": "1. Appel sans réponse",
+      "p": "15-2"
+     },
+     {
+      "n": "15.2.3",
+      "t": "2. Caméras avant et arrière",
+      "p": "15-2"
+     },
+     {
+      "n": "15.2.3",
+      "t": "3. Interface de la caméra avant",
+      "p": "15-2"
+     },
+     {
+      "n": "15.2.3",
+      "t": "4. Autres contrôles",
+      "p": "15-2"
+     }
+    ]
+   },
+   {
+    "n": "15.3",
+    "t": "Recevoir un appel vidéo",
+    "p": "15-2",
+    "subs": []
+   },
+   {
+    "n": "15.4",
+    "t": "Appels de groupe",
+    "p": "15-3",
+    "subs": [
+     {
+      "n": "15.4.1",
+      "t": "Passer un appel à plusieurs personnes",
+      "p": "15-3"
+     },
+     {
+      "n": "15.4.2",
+      "t": "Ajouter une personne à un appel de groupe",
+      "p": "15-4"
+     },
+     {
+      "n": "15.4.3",
+      "t": "Répondre à un appel et rejoindre le groupe",
+      "p": "15-4"
+     },
+     {
+      "n": "15.4.4",
+      "t": "Mettre fin à un appel de groupe",
+      "p": "15-4"
+     }
+    ]
+   },
+   {
+    "n": "15.5",
+    "t": "Gérer l’historique",
+    "p": "15-4",
+    "subs": [
+     {
+      "n": "15.5.1",
+      "t": "Supprimer un appel",
+      "p": "15-4"
+     },
+     {
+      "n": "15.5.2",
+      "t": "Supprimer plusieurs appels",
+      "p": "15-4"
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "n": 16,
+  "t": "PLANS ET ITINÉRAIRES",
+  "p": "16-1",
+  "secs": [
+   {
+    "n": "16.1",
+    "t": "Réglages et accès",
+    "p": "16-1",
+    "subs": []
+   },
+   {
+    "n": "16.2",
+    "t": "Recherche d’un lieu sur un plan",
+    "p": "16-1",
+    "subs": [
+     {
+      "n": "16.2.1",
+      "t": "Affichage en 3D",
+      "p": "16-2"
+     },
+     {
+      "n": "16.2.2",
+      "t": "Affichage en mode FlyOver",
+      "p": "16-2"
+     }
+    ]
+   },
+   {
+    "n": "16.3",
+    "t": "Itinéraires",
+    "p": "16-3",
+    "subs": [
+     {
+      "n": "16.3.1",
+      "t": "Tracer un itinéraire",
+      "p": "16-3"
+     },
+     {
+      "n": "16.3.2",
+      "t": "Navigation étape par étape (style GPS)",
+      "p": "16-4"
+     },
+     {
+      "n": "16.3.3",
+      "t": "Circulation",
+      "p": "16-4"
+     },
+     {
+      "n": "16.3.4",
+      "t": "Utilisation des repères",
+      "p": "16-4"
+     }
+    ]
+   },
+   {
+    "n": "16.4",
+    "t": "Recherches à proximité (attractions, services…)",
+    "p": "16-5",
+    "subs": []
+   },
+   {
+    "n": "16.5",
+    "t": "Résumé des outils utiles sur les plans",
+    "p": "16-5",
+    "subs": []
+   }
+  ]
+ },
+ {
+  "n": 17,
+  "t": "HORLOGE",
+  "p": "17-1",
+  "secs": [
+   {
+    "n": "17.1",
+    "t": "Accès",
+    "p": "17-1",
+    "subs": []
+   },
+   {
+    "n": "17.2",
+    "t": "Horloges",
+    "p": "17-1",
+    "subs": []
+   },
+   {
+    "n": "17.3",
+    "t": "Alarme",
+    "p": "17-2",
+    "subs": []
+   },
+   {
+    "n": "17.4",
+    "t": "Sommeil",
+    "p": "17-2",
+    "subs": []
+   },
+   {
+    "n": "17.5",
+    "t": "Chronomètre",
+    "p": "17-3",
+    "subs": []
+   },
+   {
+    "n": "17.6",
+    "t": "Minuteur",
+    "p": "17-3",
+    "subs": []
+   }
+  ]
+ },
+ {
+  "n": 18,
+  "t": "MAGASINS",
+  "p": "18-1",
+  "secs": [
+   {
+    "n": "18.1",
+    "t": "Réglages",
+    "p": "18-1",
+    "subs": [
+     {
+      "n": "18.1.1",
+      "t": "iTunes et App Store",
+      "p": "18-1"
+     },
+     {
+      "n": "18.1.2",
+      "t": "Livres",
+      "p": "18-2"
+     },
+     {
+      "n": "18.1.3",
+      "t": "TV",
+      "p": "18-2"
+     }
+    ]
+   },
+   {
+    "n": "18.2",
+    "t": "Accès",
+    "p": "18-2",
+    "subs": []
+   },
+   {
+    "n": "18.3",
+    "t": "App Store",
+    "p": "18-2",
+    "subs": [
+     {
+      "n": "18.3.1",
+      "t": "Onglets",
+      "p": "18-2"
+     },
+     {
+      "n": "18.3.2",
+      "t": "Installation d’une App ou d’un jeu",
+      "p": "18-3"
+     },
+     {
+      "n": "18.3.3",
+      "t": "Consulter la liste des applications et jeux sur votre appareil",
+      "p": "18-4"
+     }
+    ]
+   },
+   {
+    "n": "18.4",
+    "t": "Livres",
+    "p": "18-5",
+    "subs": [
+     {
+      "n": "18.4.1",
+      "t": "Onglets",
+      "p": "18-5"
+     },
+     {
+      "n": "18.4.1",
+      "t": "1. Onglet En cours",
+      "p": "18-5"
+     },
+     {
+      "n": "18.4.1",
+      "t": "2. Onglet Bibliothèque",
+      "p": "18-5"
+     },
+     {
+      "n": "18.4.1",
+      "t": "3. Onglet Librairie",
+      "p": "18-7"
+     },
+     {
+      "n": "18.4.1",
+      "t": "4. Onglet Livres audio",
+      "p": "18-7"
+     },
+     {
+      "n": "18.4.1",
+      "t": "5. Onglet Rechercher",
+      "p": "18-7"
+     },
+     {
+      "n": "18.4.2",
+      "t": "Se procurer un livre",
+      "p": "18-7"
+     },
+     {
+      "n": "18.4.3",
+      "t": "Lire des livres",
+      "p": "18-8"
+     },
+     {
+      "n": "18.4.4",
+      "t": "Supprimer des livres",
+      "p": "18-9"
+     }
+    ]
+   },
+   {
+    "n": "18.5",
+    "t": "iTunes Store",
+    "p": "18-9",
+    "subs": []
+   }
+  ]
+ },
+ {
+  "n": 19,
+  "t": "LOCALISER MON iPAD",
+  "p": "19-1",
+  "secs": [
+   {
+    "n": "19.1",
+    "t": "Réglages",
+    "p": "19-1",
+    "subs": []
+   },
+   {
+    "n": "19.2",
+    "t": "Localiser l’appareil",
+    "p": "19-1",
+    "subs": []
+   }
+  ]
+ },
+ {
+  "n": 20,
+  "t": "LES PETITS PLUS",
+  "p": "20-1",
+  "secs": [
+   {
+    "n": "20.1",
+    "t": "Écrans de recherche",
+    "p": "20-1",
+    "subs": [
+     {
+      "n": "20.1.1",
+      "t": "Accès et Réglages aux écrans de recherche",
+      "p": "20-1"
+     },
+     {
+      "n": "20.1.1",
+      "t": "1. Réglages des écrans Siri et rechercher",
+      "p": "20-1"
+     },
+     {
+      "n": "20.1.1",
+      "t": "2. Accès à Siri et Rechercher",
+      "p": "20-1"
+     },
+     {
+      "n": "20.1.1",
+      "t": "3. Accès et Réglages de l’écran Affichage du jour",
+      "p": "20-2"
+     },
+     {
+      "n": "20.1.2",
+      "t": "Effectuer des recherches à l’aide des écrans de recherche",
+      "p": "20-2"
+     }
+    ]
+   },
+   {
+    "n": "20.2",
+    "t": "Centre de contrôle",
+    "p": "20-2",
+    "subs": [
+     {
+      "n": "20.2.1",
+      "t": "Accès et contenu",
+      "p": "20-3"
+     },
+     {
+      "n": "20.2.2",
+      "t": "Utilisation des raccourcis",
+      "p": "20-3"
+     }
+    ]
+   },
+   {
+    "n": "20.3",
+    "t": "AirDrop",
+    "p": "20-4",
+    "subs": []
+   },
+   {
+    "n": "20.4",
+    "t": "Notifications et Alertes",
+    "p": "20-5",
+    "subs": [
+     {
+      "n": "20.4.1",
+      "t": "Réglages",
+      "p": "20-5"
+     },
+     {
+      "n": "20.4.2",
+      "t": "Alertes",
+      "p": "20-6"
+     },
+     {
+      "n": "20.4.3",
+      "t": "Centre de notification",
+      "p": "20-6"
+     }
+    ]
+   },
+   {
+    "n": "20.5",
+    "t": "Multitâche",
+    "p": "20-7",
+    "subs": [
+     {
+      "n": "20.5.1",
+      "t": "Réglages",
+      "p": "20-7"
+     },
+     {
+      "n": "20.5.2",
+      "t": "Split View",
+      "p": "20-8"
+     },
+     {
+      "n": "20.5.3",
+      "t": "Slide Over",
+      "p": "20-8"
+     },
+     {
+      "n": "20.5.4",
+      "t": "Image dans l’image",
+      "p": "20-9"
+     }
+    ]
+   },
+   {
+    "n": "20.6",
+    "t": "Un truc à connaître – le redémarrage",
+    "p": "20-9",
+    "subs": []
+   }
+  ]
+ },
+ {
+  "n": 21,
+  "t": "RÉGLAGES DIVERS",
+  "p": "21-1",
+  "secs": [
+   {
+    "n": "21.1",
+    "t": "Accès",
+    "p": "21-1",
+    "subs": []
+   },
+   {
+    "n": "21.2",
+    "t": "Ne pas déranger",
+    "p": "21-1",
+    "subs": []
+   },
+   {
+    "n": "21.3",
+    "t": "Réinitialiser",
+    "p": "21-2",
+    "subs": []
+   },
+   {
+    "n": "21.4",
+    "t": "Batterie",
+    "p": "21-2",
+    "subs": []
+   },
+   {
+    "n": "21.5",
+    "t": "Confidentialité",
+    "p": "21-3",
+    "subs": []
+   },
+   {
+    "n": "21.6",
+    "t": "Autonomie",
+    "p": "21-4",
+    "subs": [
+     {
+      "n": "21.6.1",
+      "t": "Luminosité",
+      "p": "21-4"
+     },
+     {
+      "n": "21.6.2",
+      "t": "Wi-Fi, Bluetooth, AirDrop",
+      "p": "21-4"
+     },
+     {
+      "n": "21.6.3",
+      "t": "Notifications",
+      "p": "21-5"
+     },
+     {
+      "n": "21.6.4",
+      "t": "Verrouillage de l’appareil",
+      "p": "21-5"
+     },
+     {
+      "n": "21.6.5",
+      "t": "Fermeture des Apps",
+      "p": "21-5"
+     },
+     {
+      "n": "21.6.6",
+      "t": "Mise à jour logicielle",
+      "p": "21-5"
+     },
+     {
+      "n": "21.6.7",
+      "t": "Température",
+      "p": "21-5"
+     },
+     {
+      "n": "21.6.8",
+      "t": "Actualisation en arrière-plan",
+      "p": "21-5"
+     }
+    ]
+   },
+   {
+    "n": "21.7",
+    "t": "Temps d’écran",
+    "p": "21-5",
+    "subs": []
+   }
+  ]
+ },
+ {
+  "n": 22,
+  "t": "AUTRES APPS",
+  "p": "22-1",
+  "secs": [
+   {
+    "n": "22.1",
+    "t": "Messages",
+    "p": "22-1",
+    "subs": []
+   },
+   {
+    "n": "22.2",
+    "t": "Musique",
+    "p": "22-1",
+    "subs": []
+   },
+   {
+    "n": "22.3",
+    "t": "TV",
+    "p": "22-2",
+    "subs": []
+   },
+   {
+    "n": "22.4",
+    "t": "Balados",
+    "p": "22-2",
+    "subs": []
+   },
+   {
+    "n": "22.5",
+    "t": "Astuces",
+    "p": "22-2",
+    "subs": []
+   },
+   {
+    "n": "22.6",
+    "t": "Suggestions d’Apps populaires",
+    "p": "22-3",
+    "subs": []
+   }
+  ]
+ },
+ {
+  "n": 23,
+  "t": "CONCLUSION",
+  "p": "23-1",
+  "secs": []
+ },
+ {
+  "n": 24,
+  "t": "SOURCES ET RÉFÉRENCES",
+  "p": "23-1",
+  "secs": []
+ }
+]
