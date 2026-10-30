@@ -17,30 +17,30 @@ const THEME = {
 const FOOT = "Tablettes et téléphones Apple – iPad et iPhone";
 
 const CH = {
-  1: ["Le monde des tablettes et des téléphones Apple", "Le monde Apple", Fi.FiTablet],
-  2: ["Les tablettes et les téléphones Apple : principales caractéristiques", "Principales caractéristiques", Fi.FiSmartphone],
+  1: ["Le monde des tablettes et des téléphones Apple", "Le monde Apple", Md.MdDevices],
+  2: ["Les tablettes et les téléphones Apple : principales caractéristiques", "Principales caractéristiques", Md.MdPhoneIphone],
   3: ["Le langage des doigts à l’écran", "Le langage des doigts", Md.MdTouchApp],
-  4: ["Gérer les applications et personnaliser l’écran d’accueil", "Gérer les applications", Fi.FiGrid],
-  5: ["Les réglages de base", "Les réglages de base", Fi.FiSettings],
-  6: ["Édition de texte", "Édition de texte", Fi.FiType],
-  7: ["Contacts", "Contacts", Fi.FiUsers],
-  8: ["Mail (courrier électronique)", "Mail", Fi.FiMail],
-  9: ["Calendrier", "Calendrier", Fi.FiCalendar],
-  10: ["Safari", "Safari", Fi.FiCompass],
-  11: ["Siri", "Siri", Fi.FiMic],
-  12: ["Stockage", "Stockage", Fi.FiCloud],
-  13: ["Appareil photo", "Appareil photo", Fi.FiCamera],
-  14: ["Photos", "Photos", Fi.FiImage],
-  15: ["FaceTime", "FaceTime", Fi.FiVideo],
-  16: ["Plans et itinéraires", "Plans et itinéraires", Fi.FiMap],
-  17: ["Horloge", "Horloge", Fi.FiClock],
-  18: ["Magasins", "Magasins", Fi.FiShoppingBag],
-  19: ["Localiser mon iPad", "Localiser mon iPad", Fi.FiMapPin],
-  20: ["Les petits plus", "Les petits plus", Fi.FiStar],
-  21: ["Réglages divers", "Réglages divers", Fi.FiSliders],
-  22: ["Autres apps", "Autres apps", Fi.FiMusic],
-  23: ["Conclusion", "Conclusion", Fi.FiFlag],
-  24: ["Sources et références", "Sources et références", Fi.FiBookOpen],
+  4: ["Gérer les applications et personnaliser l’écran d’accueil", "Gérer les applications", Md.MdApps],
+  5: ["Les réglages de base", "Les réglages de base", Md.MdSettings],
+  6: ["Édition de texte", "Édition de texte", Md.MdKeyboard],
+  7: ["Contacts", "Contacts", Md.MdContacts],
+  8: ["Mail (courrier électronique)", "Mail", Md.MdEmail],
+  9: ["Calendrier", "Calendrier", Md.MdCalendarMonth],
+  10: ["Safari", "Safari", Md.MdExplore],
+  11: ["Siri", "Siri", Md.MdMic],
+  12: ["Stockage", "Stockage", Md.MdCloud],
+  13: ["Appareil photo", "Appareil photo", Md.MdPhotoCamera],
+  14: ["Photos", "Photos", Md.MdPhotoLibrary],
+  15: ["FaceTime", "FaceTime", Md.MdVideocam],
+  16: ["Plans et itinéraires", "Plans et itinéraires", Md.MdMap],
+  17: ["Horloge", "Horloge", Md.MdAlarm],
+  18: ["Magasins", "Magasins", Md.MdStorefront],
+  19: ["Localiser mon iPad", "Localiser mon iPad", Md.MdLocationOn],
+  20: ["Les petits plus", "Les petits plus", Md.MdAutoAwesome],
+  21: ["Réglages divers", "Réglages divers", Md.MdTune],
+  22: ["Autres apps", "Autres apps", Md.MdLibraryMusic],
+  23: ["Conclusion", "Conclusion", Md.MdFlag],
+  24: ["Sources et références", "Sources et références", Md.MdMenuBook],
 };
 
 async function icon(Comp, color = "#FFFFFF") {
@@ -94,7 +94,7 @@ const pad = (n) => String(n).padStart(2, "0");
   for (const k of Object.keys(CH)) icons[k] = await icon(CH[k][2]);
   const iconCircle = (s, k, x, y, d, name) => {
     s.addShape(pres.shapes.OVAL, { x, y, w: d, h: d, fill: { color: C.accent1 }, line: { type: "none" }, objectName: name + " cercle" });
-    const p = d * 0.25;
+    const p = d * 0.2;
     s.addImage({ data: icons[k], x: x + p, y: y + p, w: d - 2 * p, h: d - 2 * p, altText: CH[k][1], objectName: name + " icône" });
   };
 
@@ -195,7 +195,7 @@ const pad = (n) => String(n).padStart(2, "0");
   s.addText("Pour terminer", { placeholder: "title" });
   s.addText("Conclusion, sources et exercices", { placeholder: "subtitle" });
   s.addText("Mettez en pratique ce que vous avez appris", { placeholder: "tagline" });
-  const ex = await icon(Fi.FiEdit3);
+  const ex = await icon(Md.MdEdit);
   const items = [[23, "Conclusion", "p. 23-1", icons[23]], [24, "Sources et références", "p. 23-1", icons[24]], [null, "Exercices", "En fin de document", ex]];
   items.forEach(([n, t, p, img], i) => {
     const y = 1.55 + i * 1.5, x = 8.6;
