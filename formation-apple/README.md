@@ -17,7 +17,6 @@ cp Apple_TableMatieres.pptx ..
 
 `build.js` reçoit en argument le dossier du skill pptx, pour charger `scripts/apply_theme.js`.
 
-Étape suivante prévue : ajouter de vraies photos (Wikimedia Commons, libres de droits) sur chaque diapositive de chapitre.
 
 ## Photos
 
