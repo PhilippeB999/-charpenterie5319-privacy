@@ -48,6 +48,9 @@ async function icon(Comp, color = "#FFFFFF") {
   const buf = await sharp(Buffer.from(svg)).resize(256, 256).png().toBuffer();
   return "image/png;base64," + buf.toString("base64");
 }
+const fs = require("fs");
+const PHOTOS = fs.existsSync("./photos.json") ? require("./photos.json") : {};
+const photoPath = (k) => (PHOTOS[k] && fs.existsSync(`img/${k}.jpg`) ? `img/${k}.jpg` : null);
 const pad = (n) => String(n).padStart(2, "0");
 
 (async () => {
@@ -81,7 +84,7 @@ const pad = (n) => String(n).padStart(2, "0");
     title: "Chapitre", background: { color: C.background1 },
     objects: [
       { rect: { x: 0, y: 0, w: 4.2, h: 7.5, fill: { color: C.text1 } } },
-      { placeholder: { options: { name: "title", type: "title", align: "left", x: 0.6, y: 3.45, w: 3.2, h: 2.4, fontSize: 26, bold: true, color: C.background1, valign: "top", margin: 0 }, text: "" } },
+      { placeholder: { options: { name: "title", type: "title", align: "left", x: 0.6, y: 4.65, w: 3.2, h: 1.7, fontSize: 24, bold: true, color: C.background1, valign: "top", margin: 0 }, text: "" } },
       footer(4.7),
     ],
     slideNumber: slideNum,
@@ -102,10 +105,14 @@ const pad = (n) => String(n).padStart(2, "0");
   s.addText("iPad et iPhone", { placeholder: "subtitle" });
   s.addText("Formation — Table des matières", { placeholder: "tagline" });
   const tab = await icon(Fi.FiTablet), ph = await icon(Fi.FiSmartphone);
-  s.addShape(pres.shapes.OVAL, { x: 8.7, y: 1.6, w: 3.0, h: 3.0, fill: { color: C.accent1 }, line: { type: "none" }, objectName: "Cercle iPad" });
-  s.addImage({ data: tab, x: 9.45, y: 2.35, w: 1.5, h: 1.5, altText: "Tablette", objectName: "Icône iPad" });
-  s.addShape(pres.shapes.OVAL, { x: 10.6, y: 3.9, w: 2.0, h: 2.0, fill: { color: C.text2 }, line: { color: C.text1, width: 4 }, objectName: "Cercle iPhone" });
-  s.addImage({ data: ph, x: 11.1, y: 4.4, w: 1.0, h: 1.0, altText: "Téléphone", objectName: "Icône iPhone" });
+  if (photoPath("title")) {
+    s.addImage({ path: photoPath("title"), x: 8.33, y: 0, w: 5.0, h: 7.5, altText: PHOTOS.title.alt, objectName: "Photo de couverture" });
+  } else {
+    s.addShape(pres.shapes.OVAL, { x: 8.7, y: 1.6, w: 3.0, h: 3.0, fill: { color: C.accent1 }, line: { type: "none" }, objectName: "Cercle iPad" });
+    s.addImage({ data: tab, x: 9.45, y: 2.35, w: 1.5, h: 1.5, altText: "Tablette", objectName: "Icône iPad" });
+    s.addShape(pres.shapes.OVAL, { x: 10.6, y: 3.9, w: 2.0, h: 2.0, fill: { color: C.text2 }, line: { color: C.text1, width: 4 }, objectName: "Cercle iPhone" });
+    s.addImage({ data: ph, x: 11.1, y: 4.4, w: 1.0, h: 1.0, altText: "Téléphone", objectName: "Icône iPhone" });
+  }
   s.addNotes(NOTES.intro);
 
   // ---------- Survol ----------
@@ -131,12 +138,14 @@ const pad = (n) => String(n).padStart(2, "0");
   for (const c of toc.slice(0, 22)) {
     const n = c.n;
     s = pres.addSlide({ masterName: "Chapitre", sectionTitle: "Chapitres" });
-    iconCircle(s, n, 0.6, 0.6, 0.9, `Chapitre ${n}`);
-    s.addText(pad(n), { x: 0.6, y: 1.75, w: 3.2, h: 1.4, fontSize: 80, bold: true, color: C.accent2, fontFace: THEME.headFontFace, valign: "middle", margin: 0, isTextBox: true, objectName: "Numéro du chapitre" });
+    const ph = photoPath(n);
+    if (ph) s.addImage({ path: ph, x: 0, y: 0, w: 4.2, h: 3.1, altText: PHOTOS[n].alt, objectName: "Photo du chapitre" });
+    iconCircle(s, n, 0.6, 2.65, 0.9, `Chapitre ${n}`);
+    s.addText(pad(n), { x: 0.6, y: 3.55, w: 3.2, h: 1.0, fontSize: 60, bold: true, color: C.accent2, fontFace: THEME.headFontFace, valign: "middle", margin: 0, isTextBox: true, objectName: "Numéro du chapitre" });
     s.addText(CH[n][0], { placeholder: "title" });
     const last = c.secs[c.secs.length - 1];
     const lastP = (last && last.subs.length && last.subs[last.subs.length - 1].p) || (last && last.p) || c.p;
-    s.addText(`Pages ${c.p} à ${lastP}`, { x: 0.6, y: 6.3, w: 3.2, h: 0.4, fontSize: 13, color: C.accent4, margin: 0, isTextBox: true, objectName: "Pages du chapitre" });
+    s.addText(`Pages ${c.p} à ${lastP}`, { x: 0.6, y: 6.55, w: 3.2, h: 0.4, fontSize: 13, color: C.accent4, margin: 0, isTextBox: true, objectName: "Pages du chapitre" });
 
     const secs = c.secs, k = secs.length;
     const cols = k <= 5 ? 1 : 2, rows = Math.ceil(k / cols), gap = 0.25;
@@ -198,6 +207,24 @@ const pad = (n) => String(n).padStart(2, "0");
   });
   s.addNotes(NOTES[23]);
 
+  const credits = Object.entries(PHOTOS).filter(([k]) => photoPath(k));
+  if (credits.length) {
+    s = pres.addSlide({ masterName: "Titre seul", sectionTitle: "Clôture" });
+    s.addText("Crédits photos", { placeholder: "title" });
+    const label = (k) => (k === "title" ? "Couverture" : `Ch. ${k}`);
+    const rows = credits.map(([k, p]) => [
+      { text: label(k), options: { bold: true, color: C.accent1 } },
+      { text: `${p.author} – ${p.license}`, options: { color: C.text1 } },
+      { text: p.file, options: { color: C.accent3 } },
+    ]);
+    const half = Math.ceil(rows.length / 2);
+    [rows.slice(0, half), rows.slice(half)].forEach((part, i) => {
+      if (!part.length) return;
+      s.addTable(part, { x: 0.6 + i * 6.2, y: 1.5, w: 5.95, colW: [0.9, 2.45, 2.6], fontSize: 9, fontFace: "Calibri", rowH: 0.21, margin: 0.03, border: { type: "none" }, valign: "middle" });
+    });
+    s.addText("Photos : Wikimedia Commons (commons.wikimedia.org), utilisées selon leur licence. CC BY / CC BY-SA : creativecommons.org/licenses", { x: 0.6, y: 6.55, w: 12.13, h: 0.3, fontSize: 10, color: C.accent3, margin: 0, isTextBox: true, objectName: "Mention des licences" });
+    s.addNotes("Crédits des photos utilisées dans la présentation, conformément aux licences Creative Commons (attribution obligatoire).");
+  }
   await pres.writeFile({ fileName: "Apple_TableMatieres.pptx" });
   await applyTheme("Apple_TableMatieres.pptx", THEME);
   console.log("done");
